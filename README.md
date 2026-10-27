@@ -1,5 +1,13 @@
 # AI & LLM Job Market Analysis | January 2024 – March 2025
 
+## Project Dashboard
+
+![Power BI Dashboard](https://github.com/AbhisekhaGautam/Global-AI-LLM-Jobs-Market/blob/main/Images/Screenshot%202026-10-27%20112603.png)
+
+## MySQL Analysis
+
+![MySQL Skill Analysis](https://github.com/AbhisekhaGautam/Global-AI-LLM-Jobs-Market/blob/main/Images/Screenshot%202026-10-27%20111952.png)
+
 ## Project Overview
 
 The **AI & LLM Job Market Analysis** project is an end-to-end data analytics project focused on understanding employment trends in the Artificial Intelligence (AI) and Large Language Model (LLM) job market from **January 2024 to March 2025**.
