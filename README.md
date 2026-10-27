@@ -1,11 +1,5 @@
 # AI & LLM Job Market Analysis | January 2024 – March 2025
 
-![Project]([https://img.shields.io/badge/Project-Data%20Analytics-blue](https://github.com/AbhisekhaGautam/Global-AI-LLM-Jobs-Market/blob/main/Images/Screenshot%202026-10-27%20112603.png))
-![Excel]([https://img.shields.io/badge/Tool-Excel-217346](https://github.com/AbhisekhaGautam/Global-AI-LLM-Jobs-Market/blob/main/Images/Screenshot%202026-10-27%20111506.png))
-![MySQL]([https://img.shields.io/badge/Database-MySQL-4479A1](https://github.com/AbhisekhaGautam/Global-AI-LLM-Jobs-Market/blob/main/Images/Screenshot%202026-10-27%20111952.png))
-![Power BI]([https://img.shields.io/badge/Visualization-Power%20BI-F2C811](https://github.com/AbhisekhaGautam/Global-AI-LLM-Jobs-Market/blob/main/Images/Screenshot%202026-10-27%20112839.png))
-![Domain](https://img.shields.io/badge/Domain-AI%20%26%20LLM-purple)
-
 ## Project Overview
 
 The **AI & LLM Job Market Analysis** project is an end-to-end data analytics project focused on understanding employment trends in the Artificial Intelligence (AI) and Large Language Model (LLM) job market from **January 2024 to March 2025**.
